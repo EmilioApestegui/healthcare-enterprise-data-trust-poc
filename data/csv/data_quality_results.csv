@@ -1,0 +1,6 @@
+check_name,status,quality_score,issue_summary
+Patient encounter completeness,Pass,98.7,Encounter records landed within expected range.
+Duplicate MRN check,Pass,99.4,No material duplicate patient keys identified.
+Missing diagnosis code rate,Fail,86.2,Emergency encounters missing diagnosis coding above threshold.
+Provider ID validity,Pass,97.9,Provider registry join successful for most records.
+Claim adjustment reason code validity,Fail,82.5,Adjustment reason mapping incomplete for one payer file.

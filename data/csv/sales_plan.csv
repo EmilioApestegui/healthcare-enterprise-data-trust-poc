@@ -1,0 +1,37 @@
+month_start,region,product_category,plan_revenue,plan_units
+2026-01-01,North Medical Center,Emergency,1237250.0,490
+2026-01-01,North Medical Center,Cardiology,989404.0,384
+2026-01-01,North Medical Center,Orthopedics,876765.0,337
+2026-01-01,North Medical Center,Radiology,529147.0,211
+2026-01-01,Central Hospital,Emergency,1367982.0,552
+2026-01-01,Central Hospital,Cardiology,1078668.0,427
+2026-01-01,Central Hospital,Orthopedics,909368.0,356
+2026-01-01,Central Hospital,Radiology,595509.0,243
+2026-01-01,West Surgical Center,Emergency,900718.0,356
+2026-01-01,West Surgical Center,Cardiology,726909.0,282
+2026-01-01,West Surgical Center,Orthopedics,1060274.0,407
+2026-01-01,West Surgical Center,Radiology,470353.0,188
+2026-02-01,North Medical Center,Emergency,1275125.0,505
+2026-02-01,North Medical Center,Cardiology,1019692.0,395
+2026-02-01,North Medical Center,Orthopedics,903605.0,347
+2026-02-01,North Medical Center,Radiology,545345.0,218
+2026-02-01,Central Hospital,Emergency,1409859.0,569
+2026-02-01,Central Hospital,Cardiology,1111689.0,440
+2026-02-01,Central Hospital,Orthopedics,937206.0,367
+2026-02-01,Central Hospital,Radiology,613739.0,250
+2026-02-01,West Surgical Center,Emergency,928291.0,367
+2026-02-01,West Surgical Center,Cardiology,749161.0,290
+2026-02-01,West Surgical Center,Orthopedics,1092731.0,420
+2026-02-01,West Surgical Center,Radiology,484752.0,193
+2026-03-01,North Medical Center,Emergency,1313000.0,520
+2026-03-01,North Medical Center,Cardiology,1049980.0,407
+2026-03-01,North Medical Center,Orthopedics,930444.0,357
+2026-03-01,North Medical Center,Radiology,561544.0,224
+2026-03-01,Central Hospital,Emergency,1451736.0,586
+2026-03-01,Central Hospital,Cardiology,1144709.0,453
+2026-03-01,Central Hospital,Orthopedics,965044.0,378
+2026-03-01,Central Hospital,Radiology,631968.0,257
+2026-03-01,West Surgical Center,Emergency,955864.0,378
+2026-03-01,West Surgical Center,Cardiology,771414.0,299
+2026-03-01,West Surgical Center,Orthopedics,1125188.0,432
+2026-03-01,West Surgical Center,Radiology,,199

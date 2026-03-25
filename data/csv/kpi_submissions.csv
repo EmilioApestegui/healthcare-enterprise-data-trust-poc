@@ -1,0 +1,8 @@
+report_month,kpi_name,function_name,reported_value
+2026-03-01,Net Patient Revenue,Finance,7265000.0
+2026-03-01,Net Patient Revenue,Clinical Operations,7148000.0
+2026-03-01,Net Patient Revenue,Revenue Cycle,7219000.0
+2026-03-01,30-Day Readmission Rate,Quality,0.071
+2026-03-01,30-Day Readmission Rate,Clinical Operations,0.064
+2026-03-01,OR Utilization,Surgical Services,0.83
+2026-03-01,OR Utilization,Finance,0.77

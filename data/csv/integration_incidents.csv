@@ -1,0 +1,4 @@
+incident_id,incident_title,severity,status,owner_team,opened_at
+INC-2001,Epic ADT duplicate message pattern,Medium,Resolved,Interface Engineering,2026-03-18 09:10:00
+INC-2002,Claims file delayed from clearinghouse,High,Open,Revenue Cycle,2026-03-21 07:45:00
+INC-2003,Lab interface outage at West Surgical Center,Critical,Open,Clinical Integration,2026-03-22 04:50:00

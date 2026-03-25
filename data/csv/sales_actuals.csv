@@ -1,0 +1,37 @@
+month_start,region,product_category,net_revenue,gross_sales,returns_amount,units_sold,inventory_on_hand,feed_received_flag
+2026-01-01,North Medical Center,Emergency,1225000.0,1445500.0,74674.0,507,120,Y
+2026-01-01,North Medical Center,Cardiology,960400.0,1133272.0,55602.0,497,195,Y
+2026-01-01,North Medical Center,Orthopedics,842800.0,994504.0,58174.0,294,170,Y
+2026-01-01,North Medical Center,Radiology,529200.0,624456.0,18588.0,217,182,Y
+2026-01-01,Central Hospital,Emergency,1381800.0,1630524.0,61949.0,446,181,Y
+2026-01-01,Central Hospital,Cardiology,1068200.0,1260476.0,67201.0,441,157,Y
+2026-01-01,Central Hospital,Orthopedics,891800.0,1052324.0,34860.0,346,200,Y
+2026-01-01,Central Hospital,Radiology,607600.0,716968.0,38343.0,226,56,Y
+2026-01-01,West Surgical Center,Emergency,891800.0,1052324.0,53797.0,388,56,Y
+2026-01-01,West Surgical Center,Cardiology,705600.0,832608.0,46375.0,244,214,Y
+2026-01-01,West Surgical Center,Orthopedics,1019200.0,1202656.0,38511.0,415,132,Y
+2026-01-01,West Surgical Center,Radiology,470400.0,555072.0,17015.0,170,52,Y
+2026-02-01,North Medical Center,Emergency,1262500.0,1489750.0,75485.0,400,116,Y
+2026-02-01,North Medical Center,Cardiology,989800.0,1167964.0,44361.0,402,102,Y
+2026-02-01,North Medical Center,Orthopedics,868600.0,1024948.0,32641.0,438,165,Y
+2026-02-01,North Medical Center,Radiology,545400.0,643572.0,21312.0,199,128,Y
+2026-02-01,Central Hospital,Emergency,1424100.0,1680438.0,67625.0,480,155,Y
+2026-02-01,Central Hospital,Cardiology,1100900.0,1299062.0,46782.0,371,167,Y
+2026-02-01,Central Hospital,Orthopedics,919100.0,1084538.0,57159.0,392,202,Y
+2026-02-01,Central Hospital,Radiology,626200.0,738916.0,35881.0,313,95,Y
+2026-02-01,West Surgical Center,Emergency,919100.0,1084538.0,34922.0,507,184,Y
+2026-02-01,West Surgical Center,Cardiology,727200.0,858096.0,41155.0,260,182,Y
+2026-02-01,West Surgical Center,Orthopedics,1050400.0,1239472.0,64315.0,430,133,Y
+2026-02-01,West Surgical Center,Radiology,484800.0,572064.0,17255.0,247,144,N
+2026-03-01,North Medical Center,Emergency,1300000.0,1534000.0,73757.0,528,194,Y
+2026-03-01,North Medical Center,Cardiology,1019200.0,1202656.0,61763.0,379,143,Y
+2026-03-01,North Medical Center,Orthopedics,894400.0,1055392.0,46637.0,346,184,Y
+2026-03-01,North Medical Center,Radiology,561600.0,662688.0,17540.0,232,98,Y
+2026-03-01,Central Hospital,Emergency,1466400.0,1730352.0,56579.0,618,218,Y
+2026-03-01,Central Hospital,Cardiology,1133600.0,1337648.0,44616.0,602,194,Y
+2026-03-01,Central Hospital,Orthopedics,946400.0,1116752.0,39044.0,428,121,Y
+2026-03-01,Central Hospital,Radiology,644800.0,760864.0,33711.0,222,160,Y
+2026-03-01,West Surgical Center,Emergency,946400.0,1116752.0,53540.0,399,118,Y
+2026-03-01,West Surgical Center,Cardiology,748800.0,883584.0,27465.0,408,187,Y
+2026-03-01,West Surgical Center,Orthopedics,1081600.0,1276288.0,36344.0,384,166,Y
+2026-03-01,West Surgical Center,Radiology,499200.0,589056.0,18196.0,199,125,Y

@@ -1,0 +1,5 @@
+issue_id,status,issue_type,issue_description,owner,opened_date
+ISS-3101,Open,Clinical KPI ownership unclear,30-Day Readmission Rate lacks formal business owner sign-off.,Data Governance Office,2026-03-17
+ISS-3102,Open,Missing plan value,West Surgical Center Radiology budget missing for March.,FP&A,2026-03-20
+ISS-3103,In Progress,Late claims feed,Clearinghouse delivery delay impacting daily revenue certification.,Revenue Cycle,2026-03-21
+ISS-3104,Open,Lab interface outage,West Surgical Center lab system not transmitting results.,Clinical Integration,2026-03-22

@@ -1,0 +1,5 @@
+kpi_name,certification_status,business_definition,owner,data_steward,source_object,consumer_group,last_validated_date,certification_reason
+Net Patient Revenue,Certified,Recognized patient revenue after claim adjustments and approved write-offs.,VP Revenue Cycle,Enterprise Data Steward,Epic + Claims mart,Executive leadership,2026-03-20,"Definition aligned across Finance, Clinical Operations, and Revenue Cycle."
+30-Day Readmission Rate,Pending,Percent of discharges followed by an inpatient readmission within 30 days.,,Quality Data Steward,EMR encounter history,Quality committee,2026-03-18,Clinical definition exists but owner attestation is still missing.
+Average Length of Stay,Certified,Average inpatient days per admission for acute care stays.,Chief Nursing Officer,Clinical Data Steward,ADT census tables,Hospital operations,2026-03-19,Validated against census extracts and operations reports.
+OR Utilization,Not Trusted,Scheduled operating room hours used divided by staffed OR capacity.,,Surgical Services Steward,Surgery scheduling,Perioperative leadership,2026-03-10,Competing logic remains between surgery scheduling and finance.
