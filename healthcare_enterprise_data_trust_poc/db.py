@@ -78,13 +78,16 @@ def run_certified_pipeline(engine: Engine):
         )
     )
 
-    summary["variance"] = summary["actual_revenue"] - summary["plan_revenue"]
+    summary["variance"] = (
+    summary["actual_revenue"] -
+    summary["plan_revenue"].fillna(0)
+)
 
     summary["variance_pct"] = np.where(
-        summary["plan_revenue"].fillna(0) != 0,
-        summary["variance"] / summary["plan_revenue"],
-        np.nan
-    )
+    summary["plan_revenue"].fillna(0)!=0,
+    summary["variance"]/summary["plan_revenue"].fillna(0),
+    np.nan
+)
 
     summary["kpi_status"] = np.where(
         summary["plan_revenue"].isna() | (summary["missing_feeds"] > 0),
